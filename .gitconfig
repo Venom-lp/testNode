@@ -1,0 +1,8 @@
+[user]
+    name = 
+    email = venom-lp@yandex.ru
+[core]
+    askpass = /bin/echo
+    editor = nano
+[color]
+    ui = true
